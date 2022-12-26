@@ -16,9 +16,9 @@ The project management life cycle is depicted and documented in the form of a Ga
 
 |Control Element|What is likely go wrong?|How and When will I know ?|What will I do about it ?|
 |---|---|---|---|
-|Quality (Poor quality mindset; poor design, materials, and craftsmanship; insufficient quality assurance of product)|---|---|---|
-|Cost  (Estimating errors; inadequate productivity, cost, change, or contingency)|---|---|---|
-|Time  (Faults in forecasting time or resource availability; errors in establishing the critical route; insufficient float allocation and management; early release of competitor goods)|---|---|---|
+|Quality (Poor quality mindset; poor design, materials, and craftsmanship; insufficient quality assurance of product)|**Malfunctioning hardware due to factory manufacturing defect.		Software issues due to outdated modules and firmware.**|**When the main components fail to succeed in recognition.**|**Recall released product and go through research and development process.**|
+|Cost  (Estimating errors; inadequate productivity, cost, change, or contingency)|**The budget of project management is not corresponding to cost estimation during planning phase.**|**When the budget during the administration and mitigation is insufficient.**|**Reduce and balance the overall project cost to support insufficient phase budget.**|
+|Time(Faults in forecasting time or resource availability; errors in establishing the critical route; insufficient float allocation and management; early release of competitor goods)|**Unexpected employees’ resignation.Unpredictable work environments and load. Insufficient manpower to achieve desired objectives.**|**When expected time of succeed is not achieved. When the due for a specific phase is not obtained. When the product is faulty even at closing phase.**|**Break the work into time-regulated chunks. Reassign task to competent employee. Discuss with stakeholders for additional time and working hours.**|
 
 ## RESPONSIBILITY ASSIGNMENT MATRICES (RAM)
 
