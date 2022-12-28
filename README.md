@@ -9,7 +9,7 @@ The PMP-Plan developed is simply a simulation collaboration between third party 
 Project Summary: <a href="REPORT/1.0 Project Summary.md" > Project Summary </a> 
 
 Project Summary give a brief overview of the project objectives and team members details.
-
+<br><br>
 
 Project Planning: <a href="REPORT/2.0 Project Planning.md" > Project Planning </a> 
 
