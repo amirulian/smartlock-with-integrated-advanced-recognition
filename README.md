@@ -10,7 +10,6 @@ Project Summary: Project Summary
 Project Summary give a brief overview of the project objectives and team members details.
 
 Project Planning: <a href="REPORT/1.0 Project Summary.md" > Project Planning </a> 
-
 Planning processes include devising and maintaining a workable scheme to ensure that the project addresses the organization’s needs. Gantt Chart, Work Breakdown Structure(WBS) is documented in this phase.
 
 Project Implementation: Project Implementaion
