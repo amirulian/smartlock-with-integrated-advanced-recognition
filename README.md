@@ -8,26 +8,26 @@ The PMP-Plan developed is simply a simulation collaboration between third party 
 # Project Management Plan
 Project Summary: <a href="REPORT/1.0 Project Summary.md" > Project Summary </a> 
 <br>Project Summary give a brief overview of the project objectives and team members details.
-<br><br><br>
+<br><br>
 
 Project Planning: <a href="REPORT/2.0 Project Planning.md" > Project Planning </a> 
 <br>Planning processes include devising and maintaining a workable scheme to ensure that the project addresses the organization’s needs. Gantt Chart, Work Breakdown Structure(WBS) is documented in this phase.
-<br><br><br>
+<br><br>
 
 Project Implementation: <a href="REPORT/3.0 Implementation.md" > Project Implementaion </a>
 <br>Project Implementation define the project deliverables which included software requirement, Intelligent system architecture and etc.
-<br><br><br>
+<br><br>
 
 Project Execution: <a href="" > Project Execution </a>
 <br>Project Execution is the execution phase where the result, coding blocks and technical implementation is defined and documented.
-<br><br><br>
+<br><br>
 
 Project Closing:  <a href="" > Project Closing </a>
 <br>Project Closing indicate the end of the project lifecycle where the project need to document closing document and lesson learnt report.
-<br><br><br>
+<br><br>
 
 Project Presentation: <a href="" > Project Presentation </a>
 <br>Project Presentation shows the demonstration of the car plate recognition system developed by QTMT INC.
-<br><br><br>
+<br><br>
 
 # Sample Result
