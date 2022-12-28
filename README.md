@@ -31,3 +31,6 @@ Project Presentation: <a href="" > Project Presentation </a>
 <br>
 
 # Sample Result
+<br>Result with MatLab:
+
+<br>Result using MatLab: The MatLab developed with this Interface is for Proof of Concept (POC) and does not mean to be used in the real implementation. The real implementation would be embeded inside Raspberry PI 4 or Nano Jetson.
