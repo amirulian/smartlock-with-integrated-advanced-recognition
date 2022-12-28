@@ -6,17 +6,23 @@ The project is developed by following Project Management Plan(PMP) to better org
 The PMP-Plan developed is simply a simulation collaboration between third party organization.
 
 # Project Management Plan
-Project Summary: Project Summary
+Project Summary: <a href="REPORT/1.0 Project Summary.md" > Project Summary </a> 
+
 Project Summary give a brief overview of the project objectives and team members details.
 
-Project Planning: <a href="REPORT/1.0 Project Summary.md" > Project Planning </a> 
+
+Project Planning: <a href="REPORT/2.0 Project Planning.md" > Project Planning </a> 
 
 Planning processes include devising and maintaining a workable scheme to ensure that the project addresses the organization’s needs. Gantt Chart, Work Breakdown Structure(WBS) is documented in this phase.
 
-Project Implementation: Project Implementaion
+
+Project Implementation: <a href="REPORT/3.0 Implementation.md" > Project Implementaion </a>
+
 Project Implementation define the project deliverables which included software requirement, Intelligent system architecture and etc.
 
+
 Project Execution: Project Execution
+
 Project Execution is the execution phase where the result, coding blocks and technical implementation is defined and documented.
 
 Project Closing: Project Closing
