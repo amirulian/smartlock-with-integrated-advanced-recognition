@@ -18,17 +18,14 @@ Project Implementation: <a href="REPORT/3.0 Implementation.md" > Project Impleme
 <br>Project Implementation define the project deliverables which included software requirement, Intelligent system architecture and etc.
 <br>
 
-Project Execution: <a href="" > Project Execution </a>
+Project Execution: <a href="REPORT/4.0 Project Execution.md" > Project Execution </a>
 <br>Project Execution is the execution phase where the result, coding blocks and technical implementation is defined and documented.
 <br>
 
-Project Closing:  <a href="" > Project Closing </a>
+Project Closing:  <a href="REPORT/5.0 Completing The Project.md" > Project Closing </a>
 <br>Project Closing indicate the end of the project lifecycle where the project need to document closing document and lesson learnt report.
 <br>
 
-Project Presentation: <a href="" > Project Presentation </a>
-<br>Project Presentation shows the demonstration of the car plate recognition system developed by QTMT INC.
-<br>
 
 # Sample Result
 <br>Result with MatLab:
