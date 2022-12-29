@@ -30,4 +30,4 @@ Project Closing:  <a href="REPORT/5.0 Completing The Project.md" > Project Closi
 # Sample Result
 <br>Result with MatLab:
 
-<br>Result using MatLab: The MatLab developed with this Interface is for Proof of Concept (POC) and does not mean to be used in the real implementation. The real implementation would be embeded inside Raspberry PI 4 or Nano Jetson.
+<br>Result using MatLab: The MatLab developed with this Interface is
