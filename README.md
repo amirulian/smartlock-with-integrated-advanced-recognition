@@ -31,3 +31,10 @@ Project Closing:  <a href="REPORT/5.0 Completing The Project.md" > Project Closi
 <br>Result with MatLab:
 
 <br>Result using MatLab: The MatLab developed with this Interface is
+
+Description|Interface|Result
+---|---|---
+Both Facial and Fingerprint Recognized|![alt text](https://github.com/amirulian/smartlock-with-integrated-advanced-recognition/blob/main/REPORT/img/Execution-Result1.png "Result1")|![alt text](https://github.com/amirulian/smartlock-with-integrated-advanced-recognition/blob/main/REPORT/img/Execution-Result2.png "Result2")
+Both Facial and Fingerprint NOT Recognized|![alt text](https://github.com/amirulian/smartlock-with-integrated-advanced-recognition/blob/main/REPORT/img/Execution-Result3.png "Result3")|![alt text](https://github.com/amirulian/smartlock-with-integrated-advanced-recognition/blob/main/REPORT/img/Execution-Result4.png "Result4")
+Facial recognized but fingerprint NOT recognized|![alt text](https://github.com/amirulian/smartlock-with-integrated-advanced-recognition/blob/main/REPORT/img/Execution-Result5.png "Result5")|![alt text](https://github.com/amirulian/smartlock-with-integrated-advanced-recognition/blob/main/REPORT/img/Execution-Result6.png "Result6")
+Facial NOT Recognized but fingerprint recognized|![alt text](https://github.com/amirulian/smartlock-with-integrated-advanced-recognition/blob/main/REPORT/img/Execution-Result7.png "Result7")|![alt text](https://github.com/amirulian/smartlock-with-integrated-advanced-recognition/blob/main/REPORT/img/Execution-Result8.png "Result8")
